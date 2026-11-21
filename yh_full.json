@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Aouky7/tvcache/main/Spiders.jar",
+  "spider": "https://raw.githubusercontent.com/Aouky7/tvcache/main/Spiders.jar?v=2",
   "sites": [
     {
       "key": "樱花动漫",
