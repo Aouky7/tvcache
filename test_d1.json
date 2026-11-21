@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "第一动漫",
+      "name": "第一动漫(type0测试)",
+      "type": 0,
+      "api": "https://1anime.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
