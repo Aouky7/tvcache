@@ -1,32 +1,8 @@
 {
-  "spider": "https://raw.githubusercontent.com/Aouky7/tvcache/main/Spiders.jar?v=3",
+  "spider": "https://raw.githubusercontent.com/Aouky7/tvcache/main/Spiders.jar",
   "sites": [
-    {
-      "key": "樱花动漫",
-      "name": "樱花动漫",
-      "type": 3,
-      "api": "csp_Yh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "第一动漫",
-      "name": "第一动漫",
-      "type": 3,
-      "api": "csp_D1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    }
+    {"key": "樱花动漫", "name": "樱花动漫", "type": 3, "api": "csp_Yh", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": ""},
+    {"key": "第一动漫", "name": "第一动漫", "type": 3, "api": "csp_D1", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": ""}
   ],
-  "parses": [
-    {
-      "name": "直连",
-      "type": 0,
-      "url": ""
-    }
-  ]
+  "parses": [{"name": "直连", "type": 0, "url": ""}]
 }
